@@ -1,8 +1,8 @@
-# Private Events (Event Manager)
+# Blogger
 
 A blogging site that allows the user to create posts and others to make comments
 
-Link to website: https://eventmanager-hwchan91.herokuapp.com
+Link to website: https://jumpstartlab-blogger-hwchan91.herokuapp.com/
 
 
 ## Built With
